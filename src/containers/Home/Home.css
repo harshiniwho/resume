@@ -1,0 +1,13 @@
+.Home {
+    height: 550px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.Home p {
+    text-align: center;
+    size: 200%;
+    margin-top: 250px;
+    color: white;
+}
